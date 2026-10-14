@@ -1,0 +1,13 @@
+.idea/
+*.iml
+out/
+*.class
+
+### ArgoUML backups ###
+*.zargo~
+
+### Mac OS ###
+.DS_Store
+
+### VS Code ###
+.vscode/
